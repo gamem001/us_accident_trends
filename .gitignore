@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+**/winter_accidents.csv
+**/summer_accidents.csv
+**/spring_accidents.csv
+**/fall_accidents.csv
+**/final_accident.csv
