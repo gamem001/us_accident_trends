@@ -5,3 +5,6 @@ weather_key = "0ca76228d7d441107248c6d35691d12b"
 
 # Google API Key
 g_key = "AIzaSyARVJGkPYAIw786z7BTGbVfOcziON44-Zg"
+
+random_words = "these are random"
+another change = "this is another"
