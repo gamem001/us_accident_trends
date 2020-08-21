@@ -133,3 +133,4 @@ dmypy.json
 **/spring_accidents.csv
 **/fall_accidents.csv
 **/final_accident.csv
+**/api_key.py
