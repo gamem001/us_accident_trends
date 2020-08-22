@@ -12,6 +12,7 @@
 ###Met with group and discussed steps moving forward and finialized the gameplan.
 <br />
 ## 17 AUG 2020
+<br />
 ###Created API script but need to find out how to pull historical data by state
 <br />
 ###Made sure team was setup with repo and branches
@@ -34,5 +35,5 @@
 <br />
 ## 22 AUG 20
 <br />
-###
+### Created 'precip vs non-precip' bar charts for 2019 US Accidents and 2019 Texas Accidents
 
