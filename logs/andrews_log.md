@@ -2,20 +2,21 @@
 <br />
 ## 15 AUG 2020
 <br />
-###During class the Crash Test Dummies wrote some starter code
+### During class the Crash Test Dummies wrote some starter code
 <br />
-###Set up repo and created braches
+### Set up repo and created braches
 <br />
 ## 16 AUG 2020
-###Wrote starter code to create population and number of accidents dataframe
 <br />
-###Met with group and discussed steps moving forward and finialized the gameplan.
+### Wrote starter code to create population and number of accidents dataframe
+<br />
+### Met with group and discussed steps moving forward and finialized the gameplan.
 <br />
 ## 17 AUG 2020
 <br />
-###Created API script but need to find out how to pull historical data by state
+### Created API script but need to find out how to pull historical data by state
 <br />
-###Made sure team was setup with repo and branches
+### Made sure team was setup with repo and branches
 <br />
 ## 18 AUG 2020
 <br />
@@ -35,5 +36,18 @@
 <br />
 ## 22 AUG 20
 <br />
-### Created 'precip vs non-precip' bar charts for 2019 US Accidents and 2019 Texas Accidents
+### Created 'precip vs non-precip' bar charts for 2019 US Accidents and 2019 Texas Accidents and Houston, Tx Accidents
+<br />
+### Created Temperature, Visability, Precipitation Histograms for Texas and Houston, Tx
+<br />
+### Broke Texas and Houston, Tx dataframes into Precipitation and Non-Precipitation categories to run chi-square test.
+<br />
+### Ran Chi-Square test on Precipitation and Non-Precipitation of Houston, Tx
+<br />
+## 23 AUG 20
+<br />
+###
+<br />
+## 24 AUG 20
+
 
