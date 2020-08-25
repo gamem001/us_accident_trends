@@ -46,8 +46,9 @@
 <br />
 ## 23 AUG 20
 <br />
-###
+### Finalized the script and created slides for presentation
 <br />
 ## 24 AUG 20
+### Finalized the slides and rehearsed
 
 
