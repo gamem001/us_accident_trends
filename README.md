@@ -19,8 +19,7 @@ Our project is to uncover patterns in U.S. traffic accidents. We'll examine rela
 
 ![Precipitation vs. Accidents](images/precipitation.png)
 ![Seasons vs Accidents](images/seasonal_accidents.png)
-![Precipitation Chi Square Test](images/chi_test.png)
-![Visibility vs Accidents](images/visibility.png)
+
 
 
 
