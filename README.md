@@ -1,5 +1,5 @@
 ## U.S. Traffic Accident Trends
-## Melissa Ruiz, Victoria Cruz, Andrew Zamora
+# Melissa Ruiz, Victoria Cruz, Andrew Zamora
 
 Description:
 Our project is to uncover patterns in U.S. traffic accidents. We'll examine relationships between types of traffic accidents related to weather conditions; trends in accidents over the course of the year; relationships of types of cars to number of accidents; and related questions, as the data admits.
